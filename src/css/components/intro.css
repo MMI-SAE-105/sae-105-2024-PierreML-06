@@ -1,0 +1,10 @@
+.header {
+    display: flow;
+    width: auto;
+    height: auto;
+    padding: 10px 20px;
+
+
+    background: var(--Brand-Primary, #38348A);
+}
+
