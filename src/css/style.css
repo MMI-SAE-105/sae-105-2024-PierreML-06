@@ -8,6 +8,9 @@
 /* components */
 @import "components/menu.css";
 @import "components/event.css";
+@import "components/image.css";
+@import "components/intro.css";
+@import "components/texte.css";
 
 /* layout */
 @import "layout/header.css";
