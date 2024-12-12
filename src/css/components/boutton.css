@@ -1,0 +1,42 @@
+.button {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background-color: black;
+    border: none;
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    font-family: Arial, sans-serif;
+
+}
+
+.button::after {
+    content: '';
+    display: block;
+    height: 2px;
+    background-color: white;
+    width: 100%;
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+}
+
+.button .arrow {
+    font-size: 18px;
+}
+
+.button:hover {
+    color: #ffcc00;
+}
+
+.button:hover::after {
+    background-color: #ffcc00;
+}
+
+.button:hover .arrow {
+    color: #ffcc00;
+}

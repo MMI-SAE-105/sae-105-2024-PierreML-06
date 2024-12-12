@@ -11,6 +11,8 @@
 @import "components/image.css";
 @import "components/intro.css";
 @import "components/texte.css";
+@import "components/boutton.css";
+@import "components/bande_couleur.css";
 
 /* layout */
 @import "layout/header.css";

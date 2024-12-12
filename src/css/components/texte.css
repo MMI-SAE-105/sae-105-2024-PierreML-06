@@ -9,3 +9,23 @@
         font-family: Arial, sans-serif;
         text-align: center;
 }
+.acceuil_texte1 {
+        margin: 0;
+            padding: 0;
+            background-color: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            height: 20vh;
+}
+.acceuil_texte2 {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    display: flex;
+    color: white;
+    font-family: Arial, sans-serif;
+}
