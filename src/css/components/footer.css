@@ -33,6 +33,7 @@ color: white;
             display: flex;
             color: white;
             font-family: Arial, sans-serif;
+                            padding-left: 10px;
 }
 
 .footertxt3 {
@@ -43,6 +44,7 @@ color: white;
                 color: white;
                 font-family: Arial, sans-serif;
                 height: 8vh;
+                padding-left: 10px;
 }
 
 .footertxt4 {
@@ -52,6 +54,7 @@ color: white;
     display: flex;
     color: white;
     font-family: Arial, sans-serif;
+                    padding-left: 10px;
 }
 
         .footerimg {
@@ -60,6 +63,7 @@ color: white;
             align-items: left;
             gap: 10px;
             background-color: black;
+            
         }
 
 
