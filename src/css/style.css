@@ -15,6 +15,7 @@
 @import "components/bande_couleur.css";
 @import "components/footer.css";
 @import "components/carousel.css";
+@import "components/formulaire.css";
 
 /* layout */
 @import "layout/header.css";

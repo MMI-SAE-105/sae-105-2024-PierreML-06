@@ -3,3 +3,14 @@
         background-color: #38348A;
         margin: 0px;
     }
+
+        body {
+            background-color: black;
+            margin: 0;
+        }
+
+                .bande_noir {
+                    height: 10vh;
+                    background-color: black;
+                    margin: 0px;
+                }
