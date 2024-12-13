@@ -13,6 +13,7 @@
 @import "components/texte.css";
 @import "components/boutton.css";
 @import "components/bande_couleur.css";
+@import "components/footer.css";
 
 /* layout */
 @import "layout/header.css";
