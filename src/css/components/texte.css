@@ -30,3 +30,15 @@
     font-family: Arial, sans-serif;
 padding-left: 20px;
 }
+.texte_h3 {
+            margin: 0;
+                padding: 10px;
+                background-color: black;
+                display: flex;
+                justify-content: left;
+                align-items: center;
+                color: white;
+                font-family: Arial, sans-serif;
+                text-align: center;
+                height: 10vh;
+}

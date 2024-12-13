@@ -19,3 +19,13 @@ padding-right: 50px;
     color : white;
     padding: 10px;
 }
+
+.btn {
+background-color: #38348A;
+    color: white;
+    display: flex;
+    height: 10vh;
+    justify-content: right;
+    padding-right: 50px;
+        align-items: center;
+}
