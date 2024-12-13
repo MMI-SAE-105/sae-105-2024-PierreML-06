@@ -3,10 +3,10 @@
 
 À compléter :
 
-- NOM :
-- PRÉNOM :
-- GROUPE :
-- URL du site :
+- NOM : Mouilleseaux Lhuillier
+- PRÉNOM : Pierre
+- GROUPE : TD C
+- URL du site : https://deluxe-chimera-413c1d.netlify.app
 - URL FIGMA :
 
 ## Sujet

@@ -94,6 +94,6 @@ Ne pas oublier d'ajouter une transition plus haut pour l'animation */
 width: 50px;
     height: 50px;
     flex-shrink: 0;
-    border-right : 30px;
+    border-right : 20px;
 }
 
